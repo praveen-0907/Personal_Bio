@@ -112,10 +112,12 @@ print(me.motto())
 </div>
 
 ---
-## 🔐 TryHackMe
+## 🔥 TryHackMe Streak
 
 <div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/R41DHX7.png" alt="TryHackMe Badge"/>
+  <a href="https://tryhackme.com/p/R41DHX7">
+    <img src="https://assets.tryhackme.com/room-badges/973d9cb9571d61f806f9551dc06cb4e4.png" alt="TryHackMe 90-Day Streak Badge"/>
+  </a>
 </div>
 ---
 ## 📈 Activity Graph
