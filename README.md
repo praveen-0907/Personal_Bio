@@ -112,7 +112,12 @@ print(me.motto())
 </div>
 
 ---
+## 🔐 TryHackMe
 
+<div align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/R41DHX7.png" alt="TryHackMe Badge"/>
+</div>
+---
 ## 📈 Activity Graph
 
 <div align="center">
